@@ -10,13 +10,13 @@
         android:id="@+id/color1"
         android:layout_width="135dp"
         android:layout_height="250dp"
-        android:background="#045D07"
+        android:background="@color/verde"
         android:gravity="center" />
 
     <FrameLayout
         android:layout_width="142dp"
         android:layout_height="250dp"
-        android:background="@color/white"
+        android:background="@color/blanco"
         android:gravity="center">
 
         <ImageView
@@ -32,7 +32,7 @@
         android:id="@+id/color3"
         android:layout_width="135dp"
         android:layout_height="250dp"
-        android:background="#F44336"/>
+        android:background="@color/rojo"/>
 
 
 </LinearLayout>
